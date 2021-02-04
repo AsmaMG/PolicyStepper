@@ -1,5 +1,15 @@
-.App {
-  text-align: center;
+body{
+  position: fixed;
+  
+  background-color: rgba(247, 246, 245, 0.993);
+}
+.Appname {
+  /* background-color: papayawhip; */
+  height: 800px;
+  width:1000px;
+  position: fixed;
+  margin-left: 200px;
+  margin-top: 100px;
 }
 
 .App-logo {
